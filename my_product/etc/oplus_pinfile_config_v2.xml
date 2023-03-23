@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pin_file_config_v2>
+    <!-- default -->
+    <group>
+        <item>/system/framework/arm/boot-mediatek-framework.vdex</item>
+        <item>/system/lib/libhidltransport.so</item>
+        <item>/system/framework/arm/boot-ext.vdex</item>
+        <item>/system/framework/arm/boot-framework.vdex</item>
+    </group>
+    <group mem="4">
+    </group>
+</pin_file_config_v2>

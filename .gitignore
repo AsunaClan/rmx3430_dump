@@ -1,0 +1,11 @@
+system_ext/apex/com.android.vndk.v30.apex
+system_ext/priv-app/Settings/Settings.apk
+system_ext/priv-app/SystemUI/SystemUI.apk
+vendor/etc/camera/license.lic
+my_stock/priv-app/OppoGallery2/OppoGallery2.apk
+my_product/non_overlay/app/OplusCamera/OplusCamera.apk
+my_heytap/app/WebViewGoogle/WebViewGoogle.apk
+my_heytap/priv-app/GmsCore/GmsCore.apk
+my_heytap/priv-app/Velvet/Velvet.apk
+my_bigball/app/Browser/Browser.apk
+my_bigball/priv-app/Messages/Messages.apk

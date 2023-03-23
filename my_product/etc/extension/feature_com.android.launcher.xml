@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<extend_features>
+    <!-- fling first when load launcher -->
+    <app_feature name="com.android.launcher.FLING_FIRST_WHEN_LOAD" />
+</extend_features>

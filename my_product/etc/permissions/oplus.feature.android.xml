@@ -1,0 +1,17 @@
+<oplus-config>
+   <!-- Guofu.Yang@ANDROID.WMS.2458273, 2020/08/13, Add for app resolution switch -->
+   <oplus-feature name="oplus.software.app_resolution_switch" />
+   <oplus-feature name="oplus.software.scroll.animation_opt" />
+    <!-- CaiChunchun@ANDROID.INPUT, 2020/11/25, add for wake up arouse -->
+    <oplus-feature name="oplus.software.wake_up_arouse_support" />
+    <!-- CaiChunchun@ANDROID.INPUT, 2020/11/25, add end -->
+    <!-- CaiChunchun@ANDROID.INPUT, 2021/07/07, add for blackgesture -->
+    <oplus-feature name="oplus.software.gesture_proximitysensor" />
+    <!-- CaiChunchun@ANDROID.INPUT, 2021/07/07, add end -->
+    <!-- Hengju.Gao@OPTI, 2021/09/17, Add for Power and volume key combination feature -->
+    <oplus-feature name="oplus.software.ringer_toggle_chord_disable" />
+    <oplus-feature name="oplus.software.vibration_intensity_ime" />
+    <oplus-feature name="oplus.software.side_fingerprint"/>
+    <oplus-feature name="oplus.software.fingerprint.shutter"/>
+    <oplus-feature name="oplus.software.long_press_powerkey_shutdown" />
+</oplus-config>

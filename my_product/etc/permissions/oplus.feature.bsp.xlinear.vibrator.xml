@@ -1,0 +1,5 @@
+<oplus-config>
+    <!-- Baoquan.Lai@BSP.CHG.Basic, 2021/06/07, add for X-axis linear vibrator type -->
+    <oplus-feature name="oplus.hardware.vibrator_xlinear_type" />
+    <!-- Baoquan.Lai@BSP.CHG.Basic, 2021/06/07, add for vibrator type end. -->
+</oplus-config>

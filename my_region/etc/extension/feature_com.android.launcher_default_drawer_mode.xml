@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extend_features>
+    <!-- tangzengshui@APP.Launcher, 2022/05/16,  default drawer mode -->
+    <app_feature name="com.android.launcher.DEFAULT_DRAWER_MODE" />
+</extend_features>

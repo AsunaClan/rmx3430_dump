@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<!--
+   Android S
+   Version: 50331659
+-->
+
+<carrier_map cid="10003" oplus_carrier_name="de-o2_cid_10003">
+<carrier_map cid="1453" oplus_carrier_name="de-o2_cid_1453">
+<carrier_map cid="1454" oplus_carrier_name="de-o2_cid_1454">
+<carrier_map cid="2360" oplus_carrier_name="de-o2_cid_2360">
+<carrier_map cid="2361" oplus_carrier_name="de-o2_cid_2361">
+<carrier_map cid="1633" oplus_carrier_name="my-celcom">
+<carrier_map cid="1630" oplus_carrier_name="my-digi">
+<carrier_map cid="1628" oplus_carrier_name="my-maxis">
+<carrier_map cid="1097" oplus_carrier_name="th-ais_cid_1097">
+<carrier_map cid="1897" oplus_carrier_name="th-ais_cid_1098">
+<carrier_map cid="1896" oplus_carrier_name="th-dtac_cid_1896">
+<carrier_map cid="1897" oplus_carrier_name="th-dtac_cid_1897">
+<carrier_map cid="1898" oplus_carrier_name="th-true">
+<carrier_map cid="1882" oplus_carrier_name="tw-apt">
+<carrier_map cid="1888" oplus_carrier_name="tw-twm">
+<carrier_map cid="1884" oplus_carrier_name="tw-cht">
+<carrier_map cid="1881" oplus_carrier_name="tw-fet">
+<carrier_map cid="1886" oplus_carrier_name="tw-tstar">
+<carrier_map cid="1970" oplus_carrier_name="ae-du">
+<carrier_map cid="451" oplus_carrier_name="ae-etisalat">
+<carrier_map cid="14" oplus_carrier_name="at-a1">
+<carrier_map cid="15" oplus_carrier_name="au-vodafone">
+<carrier_map cid="30" oplus_carrier_name="au-optus">
+<carrier_map cid="1345" oplus_carrier_name="au-telstra">
+<carrier_map cid="2145" oplus_carrier_name="au-virgin">
+<carrier_map cid="1366" oplus_carrier_name="be-orange">
+<carrier_map cid="2150" oplus_carrier_name="be-telenet_cid_2150">
+<carrier_map cid="2270" oplus_carrier_name="be-telenet_cid_2270">
+<carrier_map cid="1367" oplus_carrier_name="be-base">
+<carrier_map cid="1365" oplus_carrier_name="be-proximus">
+<carrier_map cid="1370" oplus_carrier_name="bg-a1">
+<carrier_map cid="1999" oplus_carrier_name="bg-vivacom">
+
+<!--
+   add for Bahrain_80263052_20211203_begin
+-->
+<!--
+<carrier_map cid="2015" oplus_carrier_name="bh-stc">
+-->
+<carrier_map cid="1372" oplus_carrier_name="bh-all">
+<carrier_map cid="2014" oplus_carrier_name="bh-all">
+<carrier_map cid="2015" oplus_carrier_name="bh-all">
+<!--
+   add for Bahrain_80263052_20211203_end
+-->
+<carrier_map cid="1414" oplus_carrier_name="ch-salt">
+<carrier_map cid="2366" oplus_carrier_name="ch-swisscom">
+<carrier_map cid="2507" oplus_carrier_name="ch-upc">
+<carrier_map cid="1429" oplus_carrier_name="cl-claro">
+<carrier_map cid="1430" oplus_carrier_name="cl-wow">
+<carrier_map cid="1435" oplus_carrier_name="cn-cmcc">
+<carrier_map cid="2237" oplus_carrier_name="cn-ct">
+<carrier_map cid="1436" oplus_carrier_name="cn-cu">
+<carrier_map cid="1442" oplus_carrier_name="co-claro">
+<carrier_map cid="1449" oplus_carrier_name="cz-o2">
+<carrier_map cid="2394" oplus_carrier_name="cz-tmobile">
+<carrier_map cid="1452" oplus_carrier_name="cz-vodafone_cid_1452">
+<carrier_map cid="2398" oplus_carrier_name="cz-vodafone_cid_2398">
+<carrier_map cid="2092" oplus_carrier_name="de-congstar">
+<carrier_map cid="3" oplus_carrier_name="de-telekom">
+<carrier_map cid="2395" oplus_carrier_name="de-telekom">
+<carrier_map cid="2397" oplus_carrier_name="de-vodafone_cid_2397">
+<carrier_map cid="25" oplus_carrier_name="de-vodafone_cid_25">
+<carrier_map cid="1466" oplus_carrier_name="dk-3">
+<carrier_map cid="2285" oplus_carrier_name="dk-callme">
+<carrier_map cid="1463" oplus_carrier_name="dk-tdc">
+<carrier_map cid="656" oplus_carrier_name="dk-telia">
+<carrier_map cid="1464" oplus_carrier_name="dk-telenor">
+<carrier_map cid="1968" oplus_carrier_name="eg-etisalat">
+<carrier_map cid="2380" oplus_carrier_name="eg-vodafone_cid_2380">
+<carrier_map cid="676" oplus_carrier_name="eg-vodafone_cid_676">
+<carrier_map cid="675" oplus_carrier_name="eg-orange">
+<carrier_map cid="1909" oplus_carrier_name="es-euskatel_cid_1909">
+<carrier_map cid="2111" oplus_carrier_name="es-euskatel_cid_2111">
+<carrier_map cid="34" oplus_carrier_name="es-movistar">
+<carrier_map cid="678" oplus_carrier_name="es-orange_cid_678">
+<carrier_map cid="2369" oplus_carrier_name="es-orange_cid_2369">
+<carrier_map cid="26" oplus_carrier_name="es-vodafone">
+<carrier_map cid="679" oplus_carrier_name="es-yoigo">
+<!--
+   add for Jazztel_80263052_20210914_begin
+-->
+<carrier_map cid="1974" oplus_carrier_name="es-jazztel">
+<!--
+   add for Jazztel_80263052_20210914_end
+-->
+<carrier_map cid="1904" oplus_carrier_name="fi-dna">
+<carrier_map cid="1475" oplus_carrier_name="fi-elisa">
+<carrier_map cid="1480" oplus_carrier_name="fi-telia">
+<carrier_map cid="1487" oplus_carrier_name="fr-bouygues">
+<carrier_map cid="2135" oplus_carrier_name="fr-coriolis">
+<carrier_map cid="1958" oplus_carrier_name="fr-free">
+<carrier_map cid="2274" oplus_carrier_name="fr-laposte">
+<carrier_map cid="32" oplus_carrier_name="fr-orange">
+<carrier_map cid="27" oplus_carrier_name="fr-sfr">
+<carrier_map cid="747" oplus_carrier_name="gr-cosmote">
+<carrier_map cid="18" oplus_carrier_name="gr-vodafone_cid_18">
+<carrier_map cid="2399" oplus_carrier_name="gr-vodafone_cid_2399">
+<carrier_map cid="1520" oplus_carrier_name="gt-claro">
+<!--
+<carrier_map cid="760" oplus_carrier_name="hk-3hk">
+<carrier_map cid="767" oplus_carrier_name="hk-cmhk">
+<carrier_map cid="759" oplus_carrier_name="hk-csl_cid_759">
+<carrier_map cid="770" oplus_carrier_name="hk-csl_cid_770">
+<carrier_map cid="1526" oplus_carrier_name="hk-csl_cid_1526">
+<carrier_map cid="761" oplus_carrier_name="hk-smartone">
+-->
+<!--
+<carrier_map cid="762" oplus_carrier_name="hk-cu">
+<carrier_map cid="763" oplus_carrier_name="hk-trident">
+<carrier_map cid="764" oplus_carrier_name="hk-cm">
+<carrier_map cid="765" oplus_carrier_name="hk-nw">
+<carrier_map cid="766" oplus_carrier_name="hk-chktl">
+<carrier_map cid="769" oplus_carrier_name="hk-pccw">
+<carrier_map cid="772" oplus_carrier_name="hk-pm">
+<carrier_map cid="1527" oplus_carrier_name="hk-citic">
+<carrier_map cid="1960" oplus_carrier_name="hk-3">
+<carrier_map cid="1989" oplus_carrier_name="hk-gfi">
+<carrier_map cid="2450" oplus_carrier_name="hk-sun">
+<carrier_map cid="10018" oplus_carrier_name="hk-gfi3hk">
+-->
+<!--
+   modify for HK from each operator to all_80263052_20211021_begin
+-->
+<carrier_map cid="760" oplus_carrier_name="hk-all">
+<carrier_map cid="767" oplus_carrier_name="hk-all">
+<carrier_map cid="759" oplus_carrier_name="hk-all">
+<carrier_map cid="770" oplus_carrier_name="hk-all">
+<carrier_map cid="1526" oplus_carrier_name="hk-all">
+<carrier_map cid="761" oplus_carrier_name="hk-all">
+<!--
+   modify for HK from each operator to all_80263052_20211021_end
+-->
+<!--
+   modify for HK from each operator to all_80263052_20211021_begin
+-->
+<carrier_map cid="762" oplus_carrier_name="hk-all">
+<carrier_map cid="763" oplus_carrier_name="hk-all">
+<carrier_map cid="764" oplus_carrier_name="hk-all">
+<carrier_map cid="765" oplus_carrier_name="hk-all">
+<carrier_map cid="766" oplus_carrier_name="hk-all">
+<carrier_map cid="769" oplus_carrier_name="hk-all">
+<carrier_map cid="772" oplus_carrier_name="hk-all">
+<carrier_map cid="1527" oplus_carrier_name="hk-all">
+<carrier_map cid="1960" oplus_carrier_name="hk-all">
+<carrier_map cid="1989" oplus_carrier_name="hk-all">
+<carrier_map cid="2450" oplus_carrier_name="hk-all">
+<carrier_map cid="10018" oplus_carrier_name="hk-all">
+<!--
+   modify for HK from each operator to all_80263052_20211021_end
+-->
+<carrier_map cid="773" oplus_carrier_name="hn-claro">
+<carrier_map cid="1530" oplus_carrier_name="hr-a1">
+<carrier_map cid="2091" oplus_carrier_name="hr-bb">
+<carrier_map cid="2365" oplus_carrier_name="hr-telekom_cid_2365">
+<carrier_map cid="9" oplus_carrier_name="hr-telekom_cid_9">
+<carrier_map cid="8" oplus_carrier_name="hu-telekom_cid_8">
+<carrier_map cid="2401" oplus_carrier_name="hu-telekom_cid_2401">
+<carrier_map cid="1534" oplus_carrier_name="hu-telenor">
+<carrier_map cid="1535" oplus_carrier_name="hu-vodafone">
+<carrier_map cid="789" oplus_carrier_name="id-indosat">
+<carrier_map cid="1978" oplus_carrier_name="id-smartfren">
+<carrier_map cid="787" oplus_carrier_name="id-telkomsel">
+<carrier_map cid="788" oplus_carrier_name="id-xl">
+<carrier_map cid="794" oplus_carrier_name="ie-eir">
+<carrier_map cid="792" oplus_carrier_name="ie-three_cid_792">
+<carrier_map cid="1903" oplus_carrier_name="ie-three_cid_1903">
+<carrier_map cid="19" oplus_carrier_name="ie-vodafone_cid_19">
+<carrier_map cid="2387" oplus_carrier_name="ie-vodafone_cid_2387">
+<carrier_map cid="797" oplus_carrier_name="il-cellcom">
+<carrier_map cid="1991" oplus_carrier_name="il-hotmobile">
+<carrier_map cid="796" oplus_carrier_name="il-parnter">
+<carrier_map cid="798" oplus_carrier_name="il-pelephone">
+<carrier_map cid="1961" oplus_carrier_name="in-airtel">
+<carrier_map cid="1543" oplus_carrier_name="in-jio_cid_1543">
+<carrier_map cid="2018" oplus_carrier_name="in-jio_cid_2018">
+<carrier_map cid="33" oplus_carrier_name="it-tim">
+<carrier_map cid="29" oplus_carrier_name="it-vodafone">
+<carrier_map cid="1573" oplus_carrier_name="it-windtre">
+<carrier_map cid="1575" oplus_carrier_name="it-windtre">
+<carrier_map cid="2439" oplus_carrier_name="it-very">
+<carrier_map cid="849" oplus_carrier_name="jo-orange">
+<carrier_map cid="1581" oplus_carrier_name="jp-au">
+<carrier_map cid="850" oplus_carrier_name="jp-docomo_cid_850">
+<carrier_map cid="10007" oplus_carrier_name="jp-docomo_cid_10007">
+<carrier_map cid="10026" oplus_carrier_name="jp-docomo_cid_10026">
+<carrier_map cid="2407" oplus_carrier_name="jp-ocn">
+<carrier_map cid="2109" oplus_carrier_name="jp-rakuten_cid_2109">
+<carrier_map cid="2429" oplus_carrier_name="jp-rakuten_cid_2429">
+<carrier_map cid="1894" oplus_carrier_name="jp-softbank">
+<carrier_map cid="2110" oplus_carrier_name="jp-uq">
+<carrier_map cid="2100" oplus_carrier_name="jp-ymobile">
+<carrier_map cid="865" oplus_carrier_name="ke-safaricom">
+<!--
+   add for KW_80263052_20211203_begin
+-->
+<!--
+<carrier_map cid="1992" oplus_carrier_name="kw-stc">
+<carrier_map cid="1585" oplus_carrier_name="kw-zain">
+-->
+<carrier_map cid="1992" oplus_carrier_name="kw-all">
+<carrier_map cid="1585" oplus_carrier_name="kw-all">
+<carrier_map cid="1586" oplus_carrier_name="kw-all">
+<!--
+   add for KW_80263052_20211203_end
+-->
+<!--
+   add for KH_80263052_20210926_begin
+-->
+<!--
+<carrier_map cid="868" oplus_carrier_name="kh-mobitel">
+<carrier_map cid="869" oplus_carrier_name="kh-smart">
+<carrier_map cid="870" oplus_carrier_name="kh-st">
+<carrier_map cid="871" oplus_carrier_name="kh-camshin">
+<carrier_map cid="2180" oplus_carrier_name="kh-qb">
+<carrier_map cid="2181" oplus_carrier_name="kh-metfone">
+<carrier_map cid="2236" oplus_carrier_name="kh-seatel">
+-->
+<!--
+   add for KH_80263052_20210926_end
+-->
+<!--
+   modify for KH from each operator to all_80263052_20211021_begin
+-->
+<carrier_map cid="868" oplus_carrier_name="kh-all">
+<carrier_map cid="869" oplus_carrier_name="kh-all">
+<carrier_map cid="870" oplus_carrier_name="kh-all">
+<carrier_map cid="871" oplus_carrier_name="kh-all">
+<carrier_map cid="2180" oplus_carrier_name="kh-all">
+<carrier_map cid="2181" oplus_carrier_name="kh-all">
+<carrier_map cid="2236" oplus_carrier_name="kh-all">
+<!--
+   modify for KH from each operator to all_80263052_20211021_end
+-->
+
+<!--
+   add for LA_80263052_20211203_begin
+-->
+<!--
+<carrier_map cid="1591" oplus_carrier_name="la-etl">
+<carrier_map cid="1590" oplus_carrier_name="la-ltc">
+<carrier_map cid="2346" oplus_carrier_name="la-unitel">
+-->
+<carrier_map cid="1590" oplus_carrier_name="la-all">
+<carrier_map cid="1591" oplus_carrier_name="la-all">
+<carrier_map cid="1592" oplus_carrier_name="la-all">
+<carrier_map cid="2346" oplus_carrier_name="la-all">
+<!--
+   add for LA_80263052_20211203_end
+-->
+
+<carrier_map cid="1932" oplus_carrier_name="lk-airtel">
+<carrier_map cid="1599" oplus_carrier_name="lk-dialog">
+<carrier_map cid="1931" oplus_carrier_name="lk-mobitel">
+<carrier_map cid="897" oplus_carrier_name="lu-orange">
+<carrier_map cid="895" oplus_carrier_name="lu-post">
+<carrier_map cid="896" oplus_carrier_name="lu-tango">
+<carrier_map cid="903" oplus_carrier_name="ma-maroc">
+<carrier_map cid="902" oplus_carrier_name="ma-orange">
+<carrier_map cid="905" oplus_carrier_name="md-moldcell">
+<carrier_map cid="904" oplus_carrier_name="md-orange">
+<carrier_map cid="1608" oplus_carrier_name="mk-a1_cid_1608">
+<carrier_map cid="1609" oplus_carrier_name="mk-a1_cid_1609">
+<carrier_map cid="1912" oplus_carrier_name="mx-att">
+<carrier_map cid="1915" oplus_carrier_name="mx-att">
+<carrier_map cid="2495" oplus_carrier_name="mx-oui">
+<carrier_map cid="1913" oplus_carrier_name="mx-telcel">
+<carrier_map cid="1632" oplus_carrier_name="my-umobile">
+<carrier_map cid="1639" oplus_carrier_name="ng-mtn">
+<carrier_map cid="1644" oplus_carrier_name="nl-kpn">
+<carrier_map cid="1643" oplus_carrier_name="nl-tele2">
+<carrier_map cid="2468" oplus_carrier_name="nl-tele2">
+<carrier_map cid="2386" oplus_carrier_name="nl-tmobile">
+<carrier_map cid="5" oplus_carrier_name="nl-tmobile">
+<carrier_map cid="20" oplus_carrier_name="nl-vodafone">
+<carrier_map cid="1900" oplus_carrier_name="no-onecall">
+<carrier_map cid="958" oplus_carrier_name="no-telenor">
+<carrier_map cid="959" oplus_carrier_name="no-telia">
+<carrier_map cid="969" oplus_carrier_name="nz-2degrees">
+<carrier_map cid="2105" oplus_carrier_name="nz-skinny">
+<carrier_map cid="968" oplus_carrier_name="nz-spark">
+<carrier_map cid="21" oplus_carrier_name="nz-vodafone_cid_21">
+<carrier_map cid="2364" oplus_carrier_name="nz-vodafone_cid_2364">
+<!--
+   add for Bahrain_80263052_20211203_begin
+-->
+<!--
+<carrier_map cid="970" oplus_carrier_name="om-omantel">
+-->
+<carrier_map cid="970" oplus_carrier_name="om-all">
+<carrier_map cid="971" oplus_carrier_name="om-all">
+<!--
+   add for Bahrain_80263052_20211203_end
+-->
+<carrier_map cid="1925" oplus_carrier_name="pa-claro">
+<carrier_map cid="1647" oplus_carrier_name="pe-claro">
+<carrier_map cid="1653" oplus_carrier_name="ph-globe">
+<carrier_map cid="1654" oplus_carrier_name="ph-smart">
+<carrier_map cid="1975" oplus_carrier_name="pk-telenor">
+<carrier_map cid="1657" oplus_carrier_name="pk-ufone">
+<carrier_map cid="1659" oplus_carrier_name="pl-orange">
+<carrier_map cid="1662" oplus_carrier_name="pl-play">
+<carrier_map cid="1658" oplus_carrier_name="pl-plus">
+<carrier_map cid="7" oplus_carrier_name="pl-tmobile">
+<carrier_map cid="2367" oplus_carrier_name="pl-tmobile">
+<carrier_map cid="1670" oplus_carrier_name="pt-meo">
+<carrier_map cid="1668" oplus_carrier_name="pt-nos">
+<carrier_map cid="22" oplus_carrier_name="pt-vodafone">
+<!--
+   add for Qatar_80263052_20211203_begin
+-->
+<!--
+<carrier_map cid="2001" oplus_carrier_name="qa-vodafone_cid_2001">
+<carrier_map cid="2393" oplus_carrier_name="qa-vodafone_cid_2393">
+-->
+<carrier_map cid="1675" oplus_carrier_name="qa-all">
+<carrier_map cid="2001" oplus_carrier_name="qa-all">
+<carrier_map cid="2393" oplus_carrier_name="qa-all">
+<!--
+   add for Qatar_80263052_20211203_end
+-->
+<carrier_map cid="1959" oplus_carrier_name="ro-digimobil">
+<carrier_map cid="1011" oplus_carrier_name="ro-orange">
+<carrier_map cid="1010" oplus_carrier_name="ro-telekom">
+<carrier_map cid="23" oplus_carrier_name="ro-vodafone_cid_23">
+<carrier_map cid="2391" oplus_carrier_name="ro-vodafone_cid_2391">
+<carrier_map cid="1678" oplus_carrier_name="ru-mts">
+<carrier_map cid="1681" oplus_carrier_name="ru-beeline">
+<carrier_map cid="1028" oplus_carrier_name="ru-tele2">
+<carrier_map cid="1684" oplus_carrier_name="sa-mobily">
+<carrier_map cid="1683" oplus_carrier_name="sa-stc">
+<carrier_map cid="1972" oplus_carrier_name="sa-zain">
+<carrier_map cid="1691" oplus_carrier_name="se-3">
+<carrier_map cid="2287" oplus_carrier_name="se-halebop">
+<carrier_map cid="1696" oplus_carrier_name="se-tele2">
+<carrier_map cid="1695" oplus_carrier_name="se-telenor">
+<carrier_map cid="1690" oplus_carrier_name="se-telia">
+<carrier_map cid="2434" oplus_carrier_name="sg-giga">
+<carrier_map cid="1706" oplus_carrier_name="sg-m1">
+<carrier_map cid="31" oplus_carrier_name="sg-singtel">
+<carrier_map cid="1707" oplus_carrier_name="sg-starhub">
+<carrier_map cid="1709" oplus_carrier_name="si-a1">
+<carrier_map cid="1713" oplus_carrier_name="sk-orange_cid_1713">
+<carrier_map cid="1715" oplus_carrier_name="sk-orange_cid_1715">
+<carrier_map cid="11" oplus_carrier_name="sk-telekom_cid_11">
+<carrier_map cid="2385" oplus_carrier_name="sk-telekom_cid_2385">
+<carrier_map cid="1086" oplus_carrier_name="st-telekom">
+<carrier_map cid="1732" oplus_carrier_name="tn-ooredoo">
+<carrier_map cid="1936" oplus_carrier_name="tn-orange">
+<carrier_map cid="1735" oplus_carrier_name="tr-turkcell">
+<carrier_map cid="1737" oplus_carrier_name="tr-turktelekom">
+<carrier_map cid="1736" oplus_carrier_name="tr-vodafone">
+<carrier_map cid="2" oplus_carrier_name="gb-ee_cid_2">
+<carrier_map cid="2419" oplus_carrier_name="gb-ee_cid_2419">
+<carrier_map cid="718" oplus_carrier_name="gb-ee_cid_718">
+<carrier_map cid="2118" oplus_carrier_name="gb-giffgaff">
+<carrier_map cid="2425" oplus_carrier_name="gb-id">
+<carrier_map cid="1492" oplus_carrier_name="gb-o2_cid_1492">
+<carrier_map cid="10002" oplus_carrier_name="gb-o2_cid_10002">
+<carrier_map cid="2139" oplus_carrier_name="gb-sky">
+<carrier_map cid="2093" oplus_carrier_name="gb-tesco">
+<carrier_map cid="1505" oplus_carrier_name="gb-three_cid_1505">
+<carrier_map cid="10017" oplus_carrier_name="gb-three_cid_10017">
+<carrier_map cid="717" oplus_carrier_name="gb-virgin">
+<carrier_map cid="28" oplus_carrier_name="gb-vodafone">
+<carrier_map cid="1788" oplus_carrier_name="us-sprint_cid_1788">
+<carrier_map cid="2128" oplus_carrier_name="us-sprint_cid_2128">
+<carrier_map cid="10004" oplus_carrier_name="us-sprint_cid_10004">
+<carrier_map cid="10015" oplus_carrier_name="us-sprint_cid_10015">
+<carrier_map cid="1" oplus_carrier_name="us-tmobile">
+<carrier_map cid="1299" oplus_carrier_name="vn-mobifone">
+<carrier_map cid="1899" oplus_carrier_name="vn-viettel_cid_1899">
+<carrier_map cid="2179" oplus_carrier_name="vn-viettel_cid_2179">
+<carrier_map cid="1300" oplus_carrier_name="vn-vinaphone">
+<carrier_map cid="1308" oplus_carrier_name="za-cellc">
+<carrier_map cid="1309" oplus_carrier_name="za-mtn">
+<carrier_map cid="2445" oplus_carrier_name="za-rain">
+<carrier_map cid="1965" oplus_carrier_name="za-telkom">
+<carrier_map cid="24" oplus_carrier_name="za-vodacom">
+
+-->
+<!--
+   add for US operator 20211130_begin
+-->
+<carrier_map cid="1949" oplus_carrier_name="us-metropcs">
+<carrier_map cid="2433" oplus_carrier_name="us-assurance">
+<!--
+   add for US operator 20211130_end
+-->
+
+
+
+
+<!--
+    </carrier_config>
+    <carrier_config cid="25">
+        <string name="oplus_carrier_name">vdf_gb</string>
+    </carrier_config>
+    <carrier_config cid="1492">
+        <string name="oplus_carrier_name">o2_gb</string>
+    </carrier_config>
+    <carrier_config cid="1881">
+        <string name="oplus_carrier_name">tw_fet</string>
+    </carrier_config> 
+-->

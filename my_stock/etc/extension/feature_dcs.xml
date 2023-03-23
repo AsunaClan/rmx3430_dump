@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extend_features>
+
+
+    <!-- LiangZhengli@ANDROID.UPDATABILITY, 2022/03/28, Add for hardcoded url check -->
+    <app_feature name="com.oplus.dcs.data.url" args="String:https://dc-dragate-sg.heytapmobile.com"/>
+    <app_feature name="com.oplus.dcs.eap.url" args="String:https://eap-log-sg.allawnos.com"/>
+    <app_feature name="com.oplus.dcs.storage.url" args="String:https://ocloud-httpdns-sg.heytapmobile.com"/>
+
+</extend_features>
